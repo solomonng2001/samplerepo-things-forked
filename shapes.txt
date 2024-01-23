@@ -4,4 +4,5 @@ rectangle
 square
 triangle
 star
+rhombus
 
